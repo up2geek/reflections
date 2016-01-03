@@ -30,3 +30,7 @@ They become 1 branch with all the commits combined and sorted by timestamp.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Merging automatically can save time going through tons of code when get can resolve
+the merge easily, but reverts to manual mode when two people have changed similar
+lines which means you will manually have to choose which code wins.
