@@ -26,5 +26,7 @@ to the one branched off and the changes made to master/parent after branching.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+They become 1 branch with all the commits combined and sorted by timestamp.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
