@@ -20,6 +20,9 @@ to experiment with new features.
 
 How do the diagrams help you visualize the branch structure?
 
+Shows where the branches branch off and which commits were made after the branching
+to the one branched off and the changes made to master/parent after branching.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
