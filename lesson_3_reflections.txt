@@ -25,7 +25,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Fetch. So you could resolve merge conflicts offline if someone had 
+    updated the remote copy while you made a change to the same lines of code
+    locally before.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
